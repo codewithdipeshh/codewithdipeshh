@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Dipesh Verma</h1>
 <h3 align="center">A Creative Frontend Developer</h3>
 
-<p align="center"><img  alt="coding" width="700" src="https://i.postimg.cc/fy5zJpnh/81bb4b165684019-640b6038d133e-1.gif" /> </p>
+<p align="center"><img  alt="coding" width="100%" object-fir = ""height="400px" src="https://raw.githubusercontent.com/dipeshverma12/dipeshverma12/main/original-1ab4eb0e3bfcb0f812768ca9e2bc8a5a.gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshverma12&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshverma12" /> </p>
 
 - 🌱 I’m currently learning **React ,Figma**
