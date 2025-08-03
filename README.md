@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipeshverma12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codewithdipeshh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipeshverma12&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdipeshh&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p>
@@ -71,7 +71,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshverma12&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithdipeshh&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 
