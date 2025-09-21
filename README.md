@@ -16,7 +16,7 @@
 ---
 
 - 🌱 I’m currently learning **React** and **Figma**
-- 👨‍💻 Check out my projects at: [dipeshh's Portfolio](https://dipesh-verma.netlify.app/)
+- 👨‍💻 Check out my projects at: [dipeshh's Portfolio](https://dipeshh-verma.netlify.app/#)
 - 💬 Ask me about: **HTML5, CSS, JavaScript**
 - 📫 Reach me at: **dipeshverma81122@gmail.com**
 - ⚡ Fun fact: **"Always think in reverse — that's where creativity begins."**
