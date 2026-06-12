@@ -28,10 +28,10 @@
   <a href="https://codepen.io/dipesh-verma-the-scripter" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/dipeshverma" target="_blank">
+  <a href="https://www.linkedin.com/in/dipesh-verma-70b8ba2b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/dipeshh_1501" target="_blank">
+  <a href="https://www.instagram.com/dipeshh_015?igsh=NDZiczltdXgzdTZo" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
