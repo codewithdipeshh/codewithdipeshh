@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/dipeshverma" target="_blank">
+  <a href="https://codepen.io/dipesh-verma-the-scripter" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/dipeshverma" target="_blank">
