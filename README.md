@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipesh Verma</h1>
-<h3 align="center">A Creative Frontend Developer</h3>
+<h3 align="center">A Creative Mern Stack Developer</h3>
 
 <p align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" 
